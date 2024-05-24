@@ -24,11 +24,13 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Features
 
-[x] Authentication System
-[x] Account Connection
-[x] Profile Management
-[x] Password Management / Recovery
-[x] Account Balance & Transfer
-[x] Transaction History / Record
-[x] Modern Dashboard UI
-[x] Chart (chartJs)
+- Authentication System
+- Account Connection
+- Profile Management
+- Password Management / Recovery
+- Account Balance & Transfer
+- Transaction History / Record
+- Modern Dashboard UI
+- Chart (chartJs)
+
+**NOTE:** *This project if downloaded and used should be used for educational purpose only and nothing more. Any violation of this would ensure it is locked from public viewing to prevent uneventful / unorthodox practices.*
