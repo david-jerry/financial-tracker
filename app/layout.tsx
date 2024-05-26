@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"], variable: '--font-inter' });
 const ibm = IBM_Plex_Serif({ subsets: ["latin"], weight: ["100", "200", "300", "400", "500", "600","700"], variable: '--font-ibm' });
 
 export const metadata: Metadata = {
-  title: "Straton Financials",
-  description: "Straton Financial, your modern banking platform for everyone",
+  title: "FinTracker",
+  description: "Financial Tracker, your modern banking platform for everyone",
   icons: {
     icon: '/icons/logo.svg'
   }

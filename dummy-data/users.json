@@ -1,0 +1,47 @@
+[
+    {
+        "$id": "user1",
+        "email": "jeremiahedavid@gmail.com",
+        "userId": "64758898",
+        "dwollaCustomerUrl": "",
+        "dwollaCustomerId": "",
+        "firstName": "Jeremiah",
+        "lastName": "David",
+        "address1": "2567 Cpt. Rogers Close",
+        "city": "New York",
+        "state": "New York",
+        "postalCode": "50001",
+        "dateOfBirth": "03-10-1992",
+        "ssn": "875674893"
+    },
+    {
+        "$id": "user2",
+        "email": "marymanya@gmail.com",
+        "userId": "87467589",
+        "dwollaCustomerUrl": "",
+        "dwollaCustomerId": "",
+        "firstName": "Mary",
+        "lastName": "Manya",
+        "address1": "Berther and Boxes",
+        "city": "New York",
+        "state": "New York",
+        "postalCode": "50001",
+        "dateOfBirth": "27-07-1997",
+        "ssn": "764563784"
+    },
+    {
+        "$id": "user3",
+        "email": "mandoza@gmail.com",
+        "userId": "01872639",
+        "dwollaCustomerUrl": "",
+        "dwollaCustomerId": "",
+        "firstName": "Mandoza",
+        "lastName": "Fredrick",
+        "address1": "257 Ocean Drive",
+        "city": "Bay View",
+        "state": "North Carolina",
+        "postalCode": "50001",
+        "dateOfBirth": "03-10-1992",
+        "ssn": "983674878"
+    }
+]
